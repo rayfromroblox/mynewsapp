@@ -1,0 +1,3 @@
+# mynewsapp
+
+initialized readme.
